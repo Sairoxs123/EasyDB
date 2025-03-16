@@ -11,6 +11,7 @@ users.create()
 ```
  This creates a table called Users with the fields added with users.addField.
  columnName takes values:
+ #
  str for strings
  date for date
  int for integers
